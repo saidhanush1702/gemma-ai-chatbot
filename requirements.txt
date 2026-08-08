@@ -1,0 +1,7 @@
+# Vercel installs from this file at the repo root when building api/index.py.
+# Kept in sync with backend/requirements.txt (minus streamlit, which the
+# serverless function never imports).
+google-genai
+python-dotenv
+fastapi
+psycopg[binary]

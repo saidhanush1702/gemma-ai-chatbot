@@ -1,0 +1,17 @@
+# secrets — never commit; Vercel env vars hold these in production
+.env
+.env.*
+!.env.example
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# node
+node_modules/
+dist/
+
+# vercel
+.vercel
