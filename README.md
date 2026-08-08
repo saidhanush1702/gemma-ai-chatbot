@@ -1,7 +1,7 @@
 # Gemma Chatbot with Long-Term Memory
 
 A chatbot built on Google's **Gemma 4** that remembers facts about you *permanently*.
-
+ 
 Tell it your name, chat about anything else for as long as you like, then ask
 "what's my name?" — it answers correctly. Not because the conversation fits in the
 context window, but because the fact was extracted, stored in a database, and
